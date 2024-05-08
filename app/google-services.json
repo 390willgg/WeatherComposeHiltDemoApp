@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141702468118",
+    "project_id": "weathercomposedemoapp",
+    "storage_bucket": "weathercomposedemoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141702468118:android:a4fb1812b8aae6eeb99b37",
+        "android_client_info": {
+          "package_name": "com.example.weathercomposedemoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpxEk5aHglRYAmryPwKywO21G6Mq_6AyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
